@@ -1,1 +1,1 @@
-console.log("dia_2 - inicio")
+console.log("dia_2 - inicio!")
